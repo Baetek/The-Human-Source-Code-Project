@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-# ${1:The Human Source Code Project}
+# The Human Source Code Project
 ## Goal
 The goal of the project is to help reverse-engineer the human genome to allow us to understand the code behind it, letting us program-in, arbirtrary changes and features (using CRISPR), giving a computer software like flexbility and documentation to DNA.
 ## Current Project Method
